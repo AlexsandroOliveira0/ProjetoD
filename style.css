@@ -1,0 +1,69 @@
+
+header{
+ width: 15%;
+}
+
+.botaoo{
+  background-color: #31343e;
+
+}
+
+.Botao{
+  background-color: #0063E5;
+  color: #F6F7F9;
+  border-radius: 20px;
+  height: 29px;
+  width: 96%;
+  text-decoration: none;
+  text-align:center;
+  padding: 15px 15px;
+  display: inline-block;
+  
+  
+}
+
+body{
+background-color: #040814;
+  color:#F9F9F9;
+  font-family: Arial, Helvetica, sans-serif;
+ background-image: url(img/inicio8.jpeg);
+ background-repeat: no-repeat;
+justify-content: center;
+text-align: center;
+}
+
+.centro{
+ margin-top:50%;
+ 
+}
+
+.promo{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.botao{
+  background-color: #0063E5;
+    border: none;
+    color: #F6F7F9;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+   
+}
+
+.disney{
+ color: white;
+  
+}
+
+
+.l{
+  text-decoration: none;
+  display: inline-block;
+  color: #F6F7F9;
+}
